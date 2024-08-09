@@ -19,5 +19,5 @@
     "devDependencies": {
         "standard-version": "^9.5.0"
     },
-    "version": null
+    "version": "0.1.0"
 }
